@@ -73,9 +73,9 @@ Alguns outros itens são necessários para finalizar a estrutura da Cherry:
 ## Placa de circuito impresso
 No projeto, foi desenvolvida uma placa de circuito para servir como shield para a ESP32 e conexão com um hub i2c (que conecta as duas placas PCA9685 e a IMU ao microcontrolador), com o DFPlayer Mini MP3 Player, com o calibrador de motores e com a fita de cobre (como sensor de toque do robô).
 
-<img src="https://github.com/Penguin-Lab/cherry/blob/main/images/circuit0.png" width="350"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/circuit1.png" width="350">
+<img src="https://github.com/Penguin-Lab/cherry/blob/main/images/circuit0.png" height="350"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/circuit1.png" height="350">
 
-<img src="https://github.com/Penguin-Lab/cherry/blob/main/images/board0.png" height="500"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/board1.png" height="500">
+<img src="https://github.com/Penguin-Lab/cherry/blob/main/images/board0.png" height="350"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/board1.png" height="350">
 
 ## Calibração dos motores
 A calibração dos motores é feita utilizando o [CALIBRADOR DE MOTORES](https://github.com/Penguin-Lab/calib_servomotor) conectado às PCAs da Cherry. Isso deve ser feito pelo clock das PCAs ser diferente de uma placa para outra. Logo, os motores da esquerda são calibrados utilizando a PCA da esquerda e os da direita com a PCA da direita. Os valores retornados pela calibração são jogados nesta [PLANILHA](https://docs.google.com/spreadsheets/d/1Kh9AVbb79lXnJq5dlCiB7NEVVmcJWRX6X2CdDR9_QZo/edit?gid=885718543). A planilha ajeita os valores de PWM retornados na IDE do Arduino para valores que representem 0 e 180 graus dos motores já na estrutura das patas. Esses valores são os mesmos listados no código de comando da Cherry.
