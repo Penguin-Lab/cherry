@@ -5,7 +5,15 @@ A Cherry é uma hexapod desenvolvida como uma evolução da Tiffany e da Scarlet
 # Estrutura física
 A estrutura física do robô é composta por seis patas de três eixos cada (três motores). As patas são fixadas a duas placas de PLA para deixar o robô firme. As peças são todas projetadas em 3D e foram impressas utilizando PLA, podendo ser encontradas na pasta "parts" deste projeto.
 
-<img src="https://github.com/Penguin-Lab/cherry/blob/main/images/cherry0.png" height="250"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/cherry2.png" width="350"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/cherry1.png" width="350">
+<table>
+  <tr>
+    <td><img src="images/cherry0.png" height="250"></td>
+    <td rowspan="2"><img src="images/cherry2.png" height="525"></td>
+  </tr>
+  <tr>
+    <td><img src="images/cherry1.png" height="250"></td>
+  </tr>
+</table>
 
 ## Peças 3D em STL
 As peças em 3D desenvolvidas para este projeto foram baseadas nos projetos das hexapods Tiffany e Scarlet. Na pasta "parts", estão listadas essas peças em STL. Para ajudar, segue abaixo uma lista de todas as peças que devem ser impressas e qual o valor da sua maior dimensão (para ajudar na escolha da impressora):
