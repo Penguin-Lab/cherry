@@ -89,6 +89,7 @@ Os componentes eletrônicos embarcados no robô e equipamentos utilizados estão
 * Fita de folha de cobre de 3mm
 * Módulo GY-BNO080
 * Imãs para a tampa do case de bateria
+* Autofalante de 4 Ohm e 3 W
 
 # Software
 A programação da ESP32 utiliza a biblioteca chamada PenguinLib disponível na Arduino IDE, também desenvolvida pelo laboratório. Tanto os códigos de calibração de motores, quanto os de utilização do hardware e comando do robô estão disponíveis como exemplos nesta biblioteca.
