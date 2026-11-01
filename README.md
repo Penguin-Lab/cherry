@@ -57,7 +57,7 @@ Obs: a tampa de 12 motores deverão ser trocadas pelas peças [CHERRY_TAMPA_MOTO
 
 Obs 2: os motores ficam fixados nas peças por [discos metálicos pequenos padrão para eixos de servo](https://a.aliexpress.com/_mPHt3nf).
 
-<img src="https://github.com/Penguin-Lab/lilla/blob/main/images/discoeixo.png" height="100">
+<img src="https://github.com/Penguin-Lab/lilla/blob/main/images/discoeixo.jpeg" height="100">
 
 <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/pata2.png" height="300"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/pata3.png" height="300"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/corpo2.png" height="300"> <img src="https://github.com/Penguin-Lab/cherry/blob/main/images/corpo3.png" height="300">
 
